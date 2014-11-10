@@ -1,0 +1,3 @@
+#http://httpd.apache.org/docs/current/mod/code.html#errordocument
+
+ErrorDocument 404 /404.php
